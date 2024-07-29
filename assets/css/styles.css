@@ -1,0 +1,45 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;            
+}
+.rojo{
+    background-color:rgb(255,0,0);
+}
+.blanco{
+    background-color: rgb(253,255,255);
+}
+.verde{
+    background-color: rgb(0,128,0);
+}
+.gris{
+    background-color: rgb(128,128,128);
+}
+.cafe{
+    background-color: rgb(165,42,42);
+}
+.azul{
+    background-color: rgb(0,0,255);
+}
+.violeta{
+    background-color: rgb(238,130,238);
+}
+.rosado{
+    background-color: rgb(255,192,203);
+}
+.naranja{
+    background-color: rgb(255,165,0);
+}
+.purpura{
+    background-color: rgb(128,0,128);
+}
+.amarillo{
+    background-color: rgb(255,255,0);
+}
+.turquesa{
+    background-color: rgb(64,224,208);
+}
+.negro{
+    background-color: rgb(0,0,0);
+    color:white;
+}
